@@ -1,6 +1,6 @@
 # laptop touchpad not working
 
-[![laptop touchpad not working](gett-detail.png)](https://computersolve.com/why-is-my-laptop-touchpad-not-working/)
+[![laptop touchpad not working](gett-detail.png)](https://icncomputer.com/why-is-my-laptop-touchpad-not-working/)
 
 If your touchpad isn't working, it may be a result of a missing or out-of-date driver. Updating or reinstalling your touchpad drivers in Device Manager may help solve the problem. To open Device Manager, enter device manager in Search on the taskbar, then select Device Manager.
 
